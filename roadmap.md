@@ -1,0 +1,2 @@
+- [ ] Import the GitHub cafe dashboard screens, routes, data fixtures, and imagery into the existing app.
+- [ ] Verify the preview and route test; update the migration ledger.

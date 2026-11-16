@@ -1,0 +1,18 @@
+{
+  "source": "github",
+  "repository": "https://github.com/hardikdevaliya2006/snapshot-moment-studio",
+  "capabilities": [
+    { "capability": "application code and assets", "source": "GitHub checkout", "outcome": "migrate into the existing TanStack Start app", "status": "pending", "next_action": "Copy the dashboard screens, shared components, static menu imagery, styles, and routes." },
+    { "capability": "database schema", "source": "none detected", "outcome": "not applicable", "status": "verified", "next_action": null },
+    { "capability": "application records", "source": "bundled static demo fixtures", "outcome": "preserve in the app; no external records to import", "status": "verified", "next_action": null },
+    { "capability": "authentication and user identities", "source": "none detected", "outcome": "not applicable; source uses a demo manager label", "status": "verified", "next_action": null },
+    { "capability": "authorization", "source": "none detected", "outcome": "not applicable", "status": "verified", "next_action": null },
+    { "capability": "uploaded file bytes", "source": "none detected", "outcome": "not applicable; menu photos are bundled assets", "status": "verified", "next_action": null },
+    { "capability": "external providers and integrations", "source": "none detected", "outcome": "not applicable", "status": "verified", "next_action": null },
+    { "capability": "public endpoints and callbacks", "source": "none detected", "outcome": "not applicable", "status": "verified", "next_action": null },
+    { "capability": "webhooks and schedules", "source": "none detected", "outcome": "not applicable", "status": "verified", "next_action": null },
+    { "capability": "secrets", "source": "none detected", "outcome": "not applicable", "status": "verified", "next_action": null },
+    { "capability": "cutover", "source": "no external services", "outcome": "not applicable", "status": "verified", "next_action": null },
+    { "capability": "verification", "source": "imported application", "outcome": "verify preview screens and interactions", "status": "pending", "next_action": "Check the kitchen and billing screens and run the existing route test." }
+  ]
+}
